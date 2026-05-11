@@ -14,5 +14,5 @@ export default function filtersReducer(state = initialState, action) {
         default:
             return state;
     }
-}
+}   
 
